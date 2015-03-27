@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"adGroup",
+				"adGroupsRead"
+			],
+			[
+				"cv",
+				"cv_campaign"
+			],
+			[
+				"light",
+				"lightboxinner"
+			],
+			[
+				"camp",
+				"campaignItterator"
+			],
+			[
+				"lI",
+				"lItemsFiltered"
+			],
+			[
+				"lis",
+				"listKeyWords"
+			],
+			[
+				"accordionItem",
+				"accordionItemChildren"
+			],
+			[
+				"child",
+				"childname"
+			],
+			[
+				"feedt",
+				"feedtwosamechild"
+			],
+			[
+				"xml2",
+				"xml2objRec"
+			],
+			[
+				"remo",
+				"removeFirstAndLastSpaces"
+			],
+			[
+				"xml2ob",
+				"xml2objURL"
+			],
+			[
+				"un",
+				"itemsUnique"
+			],
+			[
+				"itemSp",
+				"itemSpecSplit"
+			],
+			[
+				"xml",
+				"xml2objRec"
+			],
+			[
+				"list",
+				"listobjects"
+			],
+			[
+				"sub",
+				"subFeedString"
+			],
+			[
+				"attri",
+				"attributes"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"at",
+				"attributestart"
+			],
+			[
+				"attributes",
+				"attributesString"
+			],
+			[
+				"att",
+				"attributesString"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"adSpec",
+				"adSpecString"
+			],
+			[
+				"campaignID",
+				"campaignID"
+			],
+			[
+				"listKeyWord",
+				"listKeyWordSplit"
+			],
+			[
+				"readf",
+				"readFeedStandard1"
+			],
+			[
+				"campaign",
+				"campaign"
+			],
+			[
+				"itemSpec",
+				"itemSpec"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Programmeren/Feed Based Campaign/main.js",
+			"settings":
+			{
+				"buffer_size": 9370,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"be",
+				"BeautifyRuby"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lore",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Programmeren/Neg Keyw Mngmnt/sftp-config.json",
+		"/C/Programmeren/Feed Based Campaign/main.js",
+		"/C/Programmeren/Feed Based Campaign/readItems.js",
+		"/C/Programmeren/Feed Based Campaign/xml2obj.js",
+		"/C/Programmeren/Feed Based Campaign/misc.js",
+		"/C/Programmeren/Feed Based Campaign/Feed Based Campaign.sublime-workspace",
+		"/C/Programmeren/Feed Based Campaign/sftp-config.json",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1422304659/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1421762084/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1421752022/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1421581705/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1421577511/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1421572199/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1421575208/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1421575158/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1420667219/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1420666063/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1420669839/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1420720257/hera_adword_clone/var/www/ontwikkel/adwords_scripts/neg_keyword_mngmnt_v2.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1419285961/hera_adword_clone/var/www/live/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418843509/hera_adword_clone/var/www/ontwikkel/adwords_scripts/neg_keyword_mngmnt_v2.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1419278924/hera_adword_clone/var/www/live/harmankardon/exitSurvey.html",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418895128/hera_adword_clone/var/www/live/harmankardon/exitSurvey.html",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418734617/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418677083/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418677020/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418906780/hera_adword_clone/var/www/live/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418891949/hera_adword_clone/var/www/live/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418893599/hera_adword_clone/var/www/live/exitSurvey/preview.html",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418843252/hera_adword_clone/var/www/ontwikkel/adwords_scripts/neg_keyword_management.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418567906/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418393006/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418234403/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418301388/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418325218/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/xml2obj.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418306391/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/Users/Martijn/Desktop/test.html",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418248878/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418253265/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/xml2obj.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418244332/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418117907/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418117898/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418117890/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/Users/Martijn/Downloads/UniServerZ/www/test/index.html",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418078908/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418079714/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418079034/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/Users/Martijn/Downloads/UniServerZ/www/test/style.scss",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1418069102/hera_adword_clone/var/www/live/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417956560/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417956653/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/misc.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417978484/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/xml2obj.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417956669/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/readItems.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417956675/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/xml2obj.js",
+		"/C/Users/Martijn/Desktop/xml2obj.html",
+		"/C/Users/Martijn/Desktop/xml2obj.js",
+		"/C/Users/Martijn/Downloads/UniServerZ/www/test/style.css",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417827912/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417825589/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/mainfunc.js",
+		"/C/Zult/FBC/xml2obj.js",
+		"/C/Zult/FBC/readItems.js",
+		"/C/Zult/FBC/misc.js",
+		"/C/Zult/FBC/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417810322/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417790528/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/xml2obj.js",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417804348/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417797120/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/main.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417790453/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/mainfunc.php",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417793595/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/mainfunc.php",
+		"/C/Zult/FBC/xml2obj.html",
+		"/C/Zult/FBC/main.html",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417695075/hera_adword_clone/var/www/ontwikkel/feed_based_campaign/mainfunc.php",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417466916/hera_adword_clone/var/www/ontwikkel/adword_clone/logs.html",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417466825/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417454190/hera_adword_clone/var/www/ontwikkel/adword_clone/main.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417466801/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417466757/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417466675/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417466273/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417463904/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417460104/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417459142/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417459050/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417459019/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417459012/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417458592/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417457289/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417456694/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417456665/hera_adword_clone/var/www/ontwikkel/adword_clone/log.txt",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417176475/hera_adword_clone/var/www/ontwikkel/adword_clone/main.rb",
+		"/C/Zult/RubyZult/views/scss/style.css",
+		"/C/Zult/RubyZult/views/niceforms.html",
+		"/C/Zult/RubyZult/views/scss/style.scss",
+		"/C/Zult/RubyZult/views/niceforms.erb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1417176453/hera_adword_clone/var/www/ontwikkel/adword_clone/AdCrows.rb",
+		"/C/Users/Martijn/Desktop/raven.c++",
+		"/C/Zult/RubyZult/do",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411934096/hera_adword_clone/var/www/ontwikkel/adword_clone/mainfunc.php",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411641384/hera_adword_clone/var/www/ontwikkel/adword_clone/main.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411738151/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/misc/setup_oauth2.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411739012/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411738901/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411738010/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411733672/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/basic_operations/add_keywords.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411733308/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411729729/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411726114/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411722414/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411671998/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/basic_operations/remove_ad_group.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411672627/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/basic_operations/get_ad_groups.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411675105/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411644796/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/misc/setup_oauth2.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411676260/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/basic_operations/add_text_ads.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411671484/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411657728/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411671418/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/misc/use_oauth2_jwt.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411654041/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411651517/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/basic_operations/add_ad_groups.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411648501/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411633236/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/basic_operations/add_campaigns.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411633908/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/examples/v201406/basic_operations/update_campaign.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411644678/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411641161/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411585781/hera_adword_clone/var/www/ontwikkel/adword_clone/main.rb",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411640256/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411638193/hera_adword_clone/home/martijn/adwords_api.yml",
+		"/C/Users/Martijn/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/users/martijn/appdata/local/temp/sublime-sftp-browse-1411594190/hera_adword_clone/var/lib/gems/1.9.1/gems/google-adwords-api-0.13.1/adwords_api.yml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Logger.log",
+			"vwo_$",
+			"jQuery",
+			"parseKey",
+			"'",
+			"\\n",
+			"-",
+			"'",
+			";\n",
+			"specifications",
+			"Logger.log",
+			"console",
+			"findChild",
+			"findClos",
+			"'",
+			"this.",
+			"xml2obj",
+			"Logger.log",
+			"'",
+			"console",
+			"'",
+			"])\n",
+			"json",
+			"cleanFeed",
+			"]]",
+			"substr",
+			"  \n",
+			"puts",
+			";\n",
+			"',\n",
+			"parseElemen",
+			"wind",
+			"xmlDocS",
+			"defaultv",
+			"feedURL"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jQuery",
+			"vwo_$",
+			"",
+			"\\'",
+			"Logger",
+			"\\'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Programmeren/Feed Based Campaign/main.js",
+					"settings":
+					{
+						"buffer_size": 9370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 139.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 841.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Programmeren/FeedBasedCampaign.sublime-project"
+			]
+		],
+		"width": 1470.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 142.0,
+	"status_bar_visible": true
+}
